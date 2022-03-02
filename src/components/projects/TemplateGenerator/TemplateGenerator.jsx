@@ -1,7 +1,7 @@
 import React from 'react';
 import './templategenerator.css';
 import template_generator from '../../../assets/HTMLTemplateSCS.PNG'
-import webshop_app from '../../../assets/SnapshotWebshopApp.PNG'
+import webshop_app from '../../../assets/SnapshotWebshopApp.PNG.png'
 const TemplateGenerator = () => {
   return <div>
   <body className='project-block'>

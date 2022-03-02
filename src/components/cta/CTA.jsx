@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
 import './cta.css';
-import covid_img from '../../assets/SnapshotCovidApp.PNG'
-import webshop_img from '../../assets/SnapshotWebshopApp.PNG'
-import twitchapp_img from '../../assets/SnapshotTwitchApp.PNG'
-import game_project_img from '../../assets/SnapshotGameProject.PNG'
-import maze_game_img from '../../assets/SnapshotMazeGame.PNG'
+import covid_img from '../../assets/SnapshotCovidApp.PNG.png'
+import webshop_img from '../../assets/SnapshotWebshopApp.PNG.png'
+import twitchapp_img from '../../assets/SnapshotTwitchApp.PNG.png'
+import game_project_img from '../../assets/SnapshotGameProject.PNG.png'
+import maze_game_img from '../../assets/SnapshotMazeGame.PNG.png'
 
 import { TwitchApp, GameDevelopment, CovidApp, MazeEngine, TemplateGenerator } from '../../components';
 
@@ -105,14 +105,15 @@ const CTA = () => {
         <a href="#active-project">
           <img
             src={maze_game_img}
-            alt="twitch-game"
+            alt="maze-game"
             loading="lazy"
             class="project-pic"
             onClick={() => setState('mazeengine')}
+            id='maze-img'
           /></a>
           <h3 class="project-title">Maze Game Engine</h3>
           <p class="project-details">
-          This project is a Maze Game Engine written in Java.
+          This project is a Maze Game Engine written in Java. It was created during a uni project where we were tasked to design and create a game engine from scratch using Object Orient Progrmaming.
           </p>
         
         </div>
