@@ -1,0 +1,126 @@
+.project__section {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem 20rem;
+    background: var(--color-footer);
+
+   /* ff 3.6+ */
+   background:-moz-radial-gradient(circle at 3% 0%, rgba(70, 70, 70, 1) 0%, rgba(16, 16, 16, 0.97) 100%);
+
+   /* safari 5.1+,chrome 10+ */
+   background:-webkit-radial-gradient(circle at 3% 0%, rgba(70, 70, 70, 1) 0%, rgba(16, 16, 16, 0.97) 100%);
+
+   /* opera 11.10+ */
+   background:-o-radial-gradient(circle at 3% 0%, rgba(70, 70, 70, 1) 0%, rgba(16, 16, 16, 0.97) 100%);
+
+   /* ie 10+ */
+   background:-ms-radial-gradient(circle at 3% 0%, rgba(70, 70, 70, 1) 0%, rgba(16, 16, 16, 0.97) 100%);
+
+   /* global 92%+ browsers support */
+   background:radial-gradient(circle at 3% 0%, rgba(70, 70, 70, 1) 0%, rgba(16, 16, 16, 0.97) 100%);
+   filter: drop-shadow(0px 10px 5px rgba(0, 0, 0, 0.25));
+}
+
+.projects {
+    background-color: var(--bg-color);
+    padding: 32px 0;
+    margin-top: 2rem;
+  }
+  
+
+  
+  .projects-container {
+    
+    padding: 1rem;
+    box-shadow: 0 3px 10px var(--primary-shadow);
+   
+   
+    
+  }
+  .project-pic{
+    object-fit: fill;
+    width: 100%;
+    max-width: 512px;
+    height: auto;
+    max-height: 275px;
+    border-radius: 11px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.projects h1 {
+    
+    margin-bottom: 1rem;
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 800;
+    font-family: var(--font-family);
+    max-width: 510px;
+  }
+
+  .project-pic:hover {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    cursor: pointer;
+  }
+  .project-container {
+    text-align: center;
+    padding: 1rem;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .project-container p {
+    padding: 0.4rem;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family:var(--font-family);
+    color: var(--color-text);
+    min-height: 200px;
+}
+  
+  .project-title {
+    margin-bottom: var(--bottom-margin);
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: var(--font-family);
+    min-height: 30px;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.04rem;
+    color: #fff;
+  }
+  
+  .project-details {  
+    margin-bottom: var(--bottom-margin);
+    
+  }
+  
+  .project-card {
+    max-width: 650px;
+    float: right;
+
+    padding: 2px;
+    margin: 10px;
+  }
+  @media screen and (max-width: 968px) {
+    
+    .project__section {
+
+      padding: 2rem 1rem;
+    }
+
+}
+
+@media screen and (max-width: 350px) {
+  .project__section {
+
+    padding: 2rem 0rem;
+  }
+}

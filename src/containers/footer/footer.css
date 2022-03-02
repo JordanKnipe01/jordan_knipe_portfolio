@@ -1,0 +1,14 @@
+.gradient__text{
+    font-family: var(--font-family);
+    text-align: left;
+}
+.linkedin-icon{
+    width:15%; height:auto; display: block; margin: auto; border-radius: 20px;padding-top: 1rem;
+}
+.copyright{
+
+    font-family:var(--font-family);
+    color: var(--color-text);
+
+    text-align: right;
+}

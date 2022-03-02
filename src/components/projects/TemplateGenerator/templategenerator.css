@@ -1,0 +1,32 @@
+
+.webshop-app {
+    width:60%; height:auto; display: block; margin: auto; border-radius: 20px; padding-top: 5rem;
+}
+.template-app {
+    width:60%; height:auto; display: block; margin: auto; border-radius: 20px
+}
+.project-details p{
+    padding: 0.4rem;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family:var(--font-family);
+    color: var(--color-text);
+    min-height: 200px;
+    text-align: center;
+}
+.active-project-header{
+    margin-bottom: var(--bottom-margin);
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: var(--font-family);
+    min-height: 30px;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.04rem;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
