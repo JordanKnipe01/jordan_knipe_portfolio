@@ -3,7 +3,7 @@
     text-align: left;
 }
 .linkedin-icon{
-    width:10%; height:auto; display: block; margin: auto; border-radius: 20px;padding-top: 1rem;
+    width:5%; height:auto; display: block; margin: auto; border-radius: 20px;padding-top: 1rem; min-width: 5%;
 }
 .copyright{
 
@@ -11,4 +11,16 @@
     color: var(--color-text);
 
     text-align: right;
+}
+
+@media screen and (max-width: 650px) {
+    .linkedin-icon{
+        min-width: 10%;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .linkedin-icon{
+        min-width: 10%;
+    }
 }

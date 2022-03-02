@@ -71,7 +71,7 @@
     display: inline;
     align-items: center;
     justify-content: center;
-    
+   
     
   }
 
@@ -104,13 +104,15 @@
   }
   
   .project-card {
-    max-width: 650px;
+    max-width: 512px;
     min-width: 10%;
-    float: right;
+   display: inline-block;
     width: auto;
     height: auto;
-    padding: 2px;
+    padding: 1rem;
     margin: 10px;
+    vertical-align:top;
+
   }
   
   @media screen and (max-width: 968px) {
