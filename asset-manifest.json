@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/jordan_knipe_portfolio/static/css/main.73a3b742.css",
-    "main.js": "/jordan_knipe_portfolio/static/js/main.875350d4.js",
+    "main.css": "/jordan_knipe_portfolio/static/css/main.987706fa.css",
+    "main.js": "/jordan_knipe_portfolio/static/js/main.b75fdb9c.js",
     "static/media/GameProjectShowcase.mp4": "/jordan_knipe_portfolio/static/media/GameProjectShowcase.fe822375066013cd0dc7.mp4",
     "static/media/TwitchGameVid.mp4": "/jordan_knipe_portfolio/static/media/TwitchGameVid.4aff95a32c6801e2b525.mp4",
     "static/media/CovidTrackApp.mp4": "/jordan_knipe_portfolio/static/media/CovidTrackApp.be7c49743ce0727f061b.mp4",
     "static/media/ProfileImg.png": "/jordan_knipe_portfolio/static/media/ProfileImg.88ef2412ca7958d1a9bd.png",
-    "static/media/SnapshotTwitchApp.PNG": "/jordan_knipe_portfolio/static/media/SnapshotTwitchApp.35374b334dfacdfbeddd.PNG",
-    "static/media/SnapshotCovidApp.PNG": "/jordan_knipe_portfolio/static/media/SnapshotCovidApp.649542b3a8d5c19670fd.PNG",
-    "static/media/SnapshotGameProject.PNG": "/jordan_knipe_portfolio/static/media/SnapshotGameProject.50d564f38e7950be5e64.PNG",
-    "static/media/SnapshotMazeGame.PNG": "/jordan_knipe_portfolio/static/media/SnapshotMazeGame.322afd73818df78bccfa.PNG",
+    "static/media/SnapshotGameProject.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotGameProject.PNG.bb5df3beecad0f42a417.png",
     "static/media/HTMLTemplateSCS.PNG": "/jordan_knipe_portfolio/static/media/HTMLTemplateSCS.ab26955f2a4a55f4c4e8.PNG",
     "static/media/MazeGameEngine.mp4": "/jordan_knipe_portfolio/static/media/MazeGameEngine.771a5107d01b5f65de2a.mp4",
     "static/media/java-logo.png": "/jordan_knipe_portfolio/static/media/java-logo.53e46da1cd673dc78437.png",
+    "static/media/SnapshotTwitchApp.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotTwitchApp.PNG.4e294899116f33395643.png",
+    "static/media/SnapshotCovidApp.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotCovidApp.PNG.428c3be6677c5410e483.png",
     "static/media/csharp-logo.png": "/jordan_knipe_portfolio/static/media/csharp-logo.ed1eb7a849b0c714ed19.png",
     "static/media/python-logo.png": "/jordan_knipe_portfolio/static/media/python-logo.fb73f8ab94f34ed5b355.png",
+    "static/media/SnapshotMazeGame.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotMazeGame.PNG.b4436b113955024df8dd.png",
     "static/media/js-logo.png": "/jordan_knipe_portfolio/static/media/js-logo.059e0d7b1d56c8c7493b.png",
     "static/media/LinkedIn.png": "/jordan_knipe_portfolio/static/media/LinkedIn.8465ba3190f504692a2c.png",
     "static/media/html-logo.png": "/jordan_knipe_portfolio/static/media/html-logo.1b8312125b8528806f90.png",
     "static/media/css-logo.png": "/jordan_knipe_portfolio/static/media/css-logo.01b3282894bf979b3941.png",
     "static/media/GameEngine.PNG": "/jordan_knipe_portfolio/static/media/GameEngine.cb3fa46605995391be76.PNG",
-    "static/media/SnapshotWebshopApp.PNG": "/jordan_knipe_portfolio/static/media/SnapshotWebshopApp.1c5c88fdbc421837ec09.PNG",
     "static/media/jk-logo.png": "/jordan_knipe_portfolio/static/media/jk-logo.4214716f841ea9947460.png",
+    "static/media/SnapshotWebshopApp.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotWebshopApp.PNG.ed181475f964a8687b2b.png",
     "index.html": "/jordan_knipe_portfolio/index.html",
-    "main.73a3b742.css.map": "/jordan_knipe_portfolio/static/css/main.73a3b742.css.map",
-    "main.875350d4.js.map": "/jordan_knipe_portfolio/static/js/main.875350d4.js.map"
+    "main.987706fa.css.map": "/jordan_knipe_portfolio/static/css/main.987706fa.css.map",
+    "main.b75fdb9c.js.map": "/jordan_knipe_portfolio/static/js/main.b75fdb9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.73a3b742.css",
-    "static/js/main.875350d4.js"
+    "static/css/main.987706fa.css",
+    "static/js/main.b75fdb9c.js"
   ]
 }
