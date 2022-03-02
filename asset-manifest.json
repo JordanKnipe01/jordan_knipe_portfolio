@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jordan_knipe_portfolio/static/css/main.73a3b742.css",
-    "main.js": "/jordan_knipe_portfolio/static/js/main.4e266a3e.js",
+    "main.js": "/jordan_knipe_portfolio/static/js/main.875350d4.js",
     "static/media/GameProjectShowcase.mp4": "/jordan_knipe_portfolio/static/media/GameProjectShowcase.fe822375066013cd0dc7.mp4",
     "static/media/TwitchGameVid.mp4": "/jordan_knipe_portfolio/static/media/TwitchGameVid.4aff95a32c6801e2b525.mp4",
     "static/media/CovidTrackApp.mp4": "/jordan_knipe_portfolio/static/media/CovidTrackApp.be7c49743ce0727f061b.mp4",
@@ -24,10 +24,10 @@
     "static/media/jk-logo.png": "/jordan_knipe_portfolio/static/media/jk-logo.4214716f841ea9947460.png",
     "index.html": "/jordan_knipe_portfolio/index.html",
     "main.73a3b742.css.map": "/jordan_knipe_portfolio/static/css/main.73a3b742.css.map",
-    "main.4e266a3e.js.map": "/jordan_knipe_portfolio/static/js/main.4e266a3e.js.map"
+    "main.875350d4.js.map": "/jordan_knipe_portfolio/static/js/main.875350d4.js.map"
   },
   "entrypoints": [
     "static/css/main.73a3b742.css",
-    "static/js/main.4e266a3e.js"
+    "static/js/main.875350d4.js"
   ]
 }
