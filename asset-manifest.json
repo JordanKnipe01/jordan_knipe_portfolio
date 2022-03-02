@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jordan_knipe_portfolio/static/css/main.987706fa.css",
+    "main.css": "/jordan_knipe_portfolio/static/css/main.55e8382b.css",
     "main.js": "/jordan_knipe_portfolio/static/js/main.b75fdb9c.js",
     "static/media/GameProjectShowcase.mp4": "/jordan_knipe_portfolio/static/media/GameProjectShowcase.fe822375066013cd0dc7.mp4",
     "static/media/TwitchGameVid.mp4": "/jordan_knipe_portfolio/static/media/TwitchGameVid.4aff95a32c6801e2b525.mp4",
@@ -23,11 +23,11 @@
     "static/media/jk-logo.png": "/jordan_knipe_portfolio/static/media/jk-logo.4214716f841ea9947460.png",
     "static/media/SnapshotWebshopApp.PNG.png": "/jordan_knipe_portfolio/static/media/SnapshotWebshopApp.PNG.ed181475f964a8687b2b.png",
     "index.html": "/jordan_knipe_portfolio/index.html",
-    "main.987706fa.css.map": "/jordan_knipe_portfolio/static/css/main.987706fa.css.map",
+    "main.55e8382b.css.map": "/jordan_knipe_portfolio/static/css/main.55e8382b.css.map",
     "main.b75fdb9c.js.map": "/jordan_knipe_portfolio/static/js/main.b75fdb9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.987706fa.css",
+    "static/css/main.55e8382b.css",
     "static/js/main.b75fdb9c.js"
   ]
 }
