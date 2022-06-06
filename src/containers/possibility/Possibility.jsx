@@ -17,15 +17,15 @@ const possibilityData = [
 ]
 const Possibility = () => {
   return ( 
-  <div className='gpt3__features section__padding' id="resume">
-    <div className='gpt3__features-heading'>
+  <div className='jk__features section__padding' id="resume">
+    <div className='jk__features-heading'>
       <h1 className='gradient__text'>
         Work Experience
         
       </h1>
       <p>Work Accomplishments</p>
     </div>
-    <div className='gpt3__features-container'>
+    <div className='jk__features-container'>
       {
         possibilityData.map((item,index)=>
         <Feature title={item.title} text={item.text}key={item.title +  index}/>)

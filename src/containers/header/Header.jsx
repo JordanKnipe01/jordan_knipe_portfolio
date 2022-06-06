@@ -4,8 +4,8 @@ import profileimg from '../../assets/ProfileImg.png';
 
 const Header = () => {
   return (
-    <div className="gpt3__header section__padding" id="home">
-    <div className="gpt3__header-content">
+    <div className="jk__header section__padding" id="home">
+    <div className="jk__header-content">
       <h1 className="gradient__text">Hi, I'm Jordan Knipe</h1>
       <p>A Front-End Developer and Computer Science Student</p>
 
@@ -14,7 +14,7 @@ const Header = () => {
       
     </div>
 
-    <div className="gpt3__header-image">
+    <div className="jk__header-image">
       <img src={profileimg} />
     </div>
   </div>

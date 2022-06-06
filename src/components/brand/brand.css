@@ -1,4 +1,4 @@
-.gpt3__brand{
+.jk__brand{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -6,7 +6,7 @@
     filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.25));
 }
 
-.gpt3__brand div{
+.jk__brand div{
     flex:1;
     max-width: 200px;
     min-width: 120px;
@@ -17,7 +17,7 @@
     align-items: center;
     
 }
-.gpt3__brand img{
+.jk__brand img{
     width: 60%;
     height: auto;
     filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.25));

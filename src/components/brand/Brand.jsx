@@ -8,7 +8,7 @@ import { css,
   python} from './imports'
 
 const Brand = () => {
-  return (<div className='gpt3__brand section__padding'>
+  return (<div className='jk__brand section__padding'>
     <div>
       <img src={python} alt="python"></img>
     </div>
